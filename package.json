@@ -1,0 +1,26 @@
+{
+  "name": "stackbox",
+  "version": "1.0.0",
+  "description": "Easily manage your development environment",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node bin/stackbox.js init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcolejenkins/stackbox.git"
+  },
+  "keywords": [
+    "stackbox",
+    "dotfiles",
+    "development",
+    "cli",
+    "scaffold"
+  ],
+  "author": "Adam Jenkins <adamcole83@gmail.com> (http://adamcolejenkins.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamcolejenkins/stackbox/issues"
+  },
+  "homepage": "https://github.com/adamcolejenkins/stackbox#readme"
+}
