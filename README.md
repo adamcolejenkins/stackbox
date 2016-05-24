@@ -44,13 +44,13 @@ https://github.com/adamcolejenkins/stackbox/issues
 
 Please submit patches to code or documentation as GitHub pull requests!
 
-Contributions must be licensed under the GNU GPLv3.
+Contributions must be licensed under the MIT.
 The contributor retains the copyright.
 
 
 ## Copyright
 
-ShellCheck is licensed under the GNU General Public License, v3. A copy of this license is included in the file [LICENSE](LICENSE).
+Stackbox is licensed under the MIT license. A copy of this license is included in the file [LICENSE](LICENSE).
 
 Copyright &copy; 2016, Adam Jenkins and contributors.
 
