@@ -56,5 +56,10 @@ Copyright &copy; 2016, Adam Jenkins and contributors.
 
 Happy Stackboxing!
 
-## To-Implement
-- Download and install customizable dotfiles
+## Roadmap
+- Initialize environment with customizable dotfiles
+- Create, update and run projects by type
+-- Foundation for Sites
+-- Bootstrap
+-- Foundation for Apps
+-- Rails application
