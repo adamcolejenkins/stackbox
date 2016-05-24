@@ -61,5 +61,5 @@ Happy Stackboxing!
 - Create, update and run projects by type
   - Foundation for Sites
   - Bootstrap
-	- Foundation for Apps
-	- Rails application
+  - Foundation for Apps
+  - Rails application
