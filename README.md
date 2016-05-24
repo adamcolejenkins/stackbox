@@ -59,7 +59,7 @@ Happy Stackboxing!
 ## Roadmap
 - Initialize environment with customizable dotfiles
 - Create, update and run projects by type
--- Foundation for Sites
--- Bootstrap
--- Foundation for Apps
--- Rails application
+  - Foundation for Sites
+  - Bootstrap
+	- Foundation for Apps
+	- Rails application
