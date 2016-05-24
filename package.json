@@ -23,10 +23,19 @@
     "url": "https://github.com/adamcolejenkins/stackbox/issues"
   },
   "scripts": {
-    "test": "node bin/stackbox.js init"
+    "test": "node bin/stackbox.js help"
   },
   "engines": {
     "node": ">=0.10.33"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "colors": "^1.1.2",
+    "multiline": "^1.0.2",
+    "nopt": "^3.0.6",
+    "rimraf": "^2.5.2",
+    "update-notifier": "^0.7.0",
+    "which": "^1.2.9"
+  }
 }
