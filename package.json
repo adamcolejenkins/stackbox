@@ -30,9 +30,11 @@
   },
   "license": "MIT",
   "dependencies": {
+    "async": "^2.0.0-rc.5",
     "bower": "^1.7.9",
     "colors": "^1.1.2",
     "multiline": "^1.0.2",
+    "nodegit": "^0.13.0",
     "nopt": "^3.0.6",
     "rimraf": "^2.5.2",
     "update-notifier": "^0.7.0",
