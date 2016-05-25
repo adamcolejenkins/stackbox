@@ -7,11 +7,14 @@ var stackbox = require('../lib');
 
 // Options that can be passed to commands
 var options = {
-
+  "directory": String,
+  "dotfiles": String,
 };
 
 // Shorthands for the above commands
 var shorthands = {
+  'd': "--directory",
+  'r': "--dotfiles",
   "v": "--version",
 };
 
