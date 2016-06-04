@@ -20,7 +20,7 @@ var shorthands = {
 
 var parsed = nopt(options, shorthands);
 
-// cmd.args contains basic commands like "init" and "help"
+// cmd.args contains basic commands like "install" and "help"
 // cmd.opts contains options, like --version
 var cmd = {
   args: parsed.argv.remain,
